@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KhoisnamChanu/KhoisnamChanu/_apis/build/status/knchanu.pipelines-java?branchName=master)](https://dev.azure.com/KhoisnamChanu/KhoisnamChanu/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
